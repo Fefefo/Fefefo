@@ -4,9 +4,12 @@
 
 <!--[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/24px-Telegram_logo.svg.png)](https://t.me/Fedefio)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fefefo&theme=tokyonight&layout=compact&exclude_repo=RedisGui,Efficient-Calculator,dotfiles&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fefefo&theme=tokyonight&layout=compact&exclude_repo=RedisGui,Efficient-Calculator,dotfiles&hide_border=true)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fefefo&theme=2077)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Fefefo&show_icons=true&count_private=true&include_all_commits=true&line_height=30&theme=tokyonight&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fefefo&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fefefo&theme=2077&utcOffset=1)
 </div>
 
 <!--
