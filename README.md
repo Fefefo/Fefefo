@@ -12,13 +12,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fefefo&theme=2077&utcOffset=1)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=zed,vscode,vim,neovim" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,redis" />
+    <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,redis.java" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,js,svelte" />
+  <img src="https://skillicons.dev/icons?i=html,ts,css,js,svelte.rect" />
 </p>
 </div>
 
