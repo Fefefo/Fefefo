@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,redis,java" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,ts,css,js,svelte,rect" />
+  <img src="https://skillicons.dev/icons?i=html,ts,css,js,svelte,react" />
 </p>
 </div>
 
